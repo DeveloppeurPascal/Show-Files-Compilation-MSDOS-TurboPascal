@@ -1,0 +1,50 @@
+                         Show Compilation.
+
+27/11/1991
+ShowMOU   1.0                                           Patrick Premartin
+     Ce programme vous permet de voir Ö quoi ressemblent les souris crÇes par
+     Mouse Maker. Il ne fonctionne qu'avec une carte EGA ou suivante (mode
+     graphique 0dh).
+
+27/11/1991
+ShowFNT   1.0                                           Patrick Premartin
+     Vous avez des fichiers .FNT provenant de Character Maker, et vous ne
+     savez pas Ö quoi ils ressemblent, utilisez ce programme qui vous
+     affichera la table des 256 caractäres graphiques de chaque fichier .FNT
+     Ce programme ne fonctionne qu'avec une carte EGA ou supärieure (en mode
+     0Eh).
+
+30/11/1991
+ShowPI1   1.0                                           Patrick Premartin
+     Connaissant quelqu'un qui possäde un Atari et Degas Elite, vous voudriez
+     voir les images .PI1 qu'il possäde; si vous avez un Çcran permettant le
+     mode 19 (256 couleurs en 320*200). Ce programme est fait pour vous. Il
+     affiche les images au format PI1 de Degas Elite.
+
+30/11/1991
+ShowNEO   1.0                                           Patrick Premartin
+     Vous avez des images en provenance de Neochrome (logiciel de dessin sur
+     micro-ordinateurs Atari) et d'extension NEO, ces fichiers ont une taille
+     de 32128 octets, alors utilisez ce programme sur votre Çcran VGA (ou
+     ultärieur: mode 19 = 256 couleurs, 320*200 points) pour les voir sur PC.
+
+30/11/1991
+ShowART   1.0                                           Patrick Premartin
+     Pour voir les images au format ART Director (Atari), utilisez ce
+     programme sur un PC acceptant le mode graphique 256 couleur en 320*200
+     points.
+
+23/01/1992
+ShowHTP   1.0                                           Patrick Premartin
+     Vous avez trouvÇ des fichiers d'extension HTP, ils proviennent de 'Hyper
+     Text Maker', móais vous pouvez les consulter grÉce Ö cet utilitaire.
+
+25/06/1992
+ShowRAA   1.0                                           Patrick Premartin
+     Consultez les images au format .RAA provenant d'un groupe sur Atari.
+
+25/06/1992
+ShowPPP   1.0                                           Patrick Premartin
+     Consultez les images au format PPP, ce sont des images VGA en 256
+     couleurs. Ce format est un nouveau format crÇÇ par Olf Software pour ses
+     logiciels.
